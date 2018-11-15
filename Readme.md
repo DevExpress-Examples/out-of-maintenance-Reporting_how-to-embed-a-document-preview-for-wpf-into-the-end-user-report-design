@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarButtonTabPage.cs](./CS/E3465/BarButtonTabPage.cs) (VB: [BarButtonTabPage.vb](./VB/E3465/BarButtonTabPage.vb))
+* **[Form1.cs](./CS/E3465/Form1.cs) (VB: [Form1.vb](./VB/E3465/Form1.vb))**
+* [Helper.cs](./CS/E3465/Helper.cs) (VB: [Helper.vb](./VB/E3465/Helper.vb))
+* [ReportPreviewModel.cs](./CS/E3465/WPF/ReportPreviewModel.cs) (VB: [ReportPreviewModel.vb](./VB/E3465/WPF/ReportPreviewModel.vb))
+* [WpfReportPreviewControl.xaml](./CS/E3465/WPF/WpfReportPreviewControl.xaml) (VB: [WpfReportPreviewControl.xaml](./VB/E3465/WPF/WpfReportPreviewControl.xaml))
+* [WpfReportPreviewControl.xaml.cs](./CS/E3465/WPF/WpfReportPreviewControl.xaml.cs) (VB: [WpfReportPreviewControl.xaml](./VB/E3465/WPF/WpfReportPreviewControl.xaml))
+* [WpfReportPreviewUserControl.cs](./CS/E3465/WPF/WpfReportPreviewUserControl.cs) (VB: [WpfReportPreviewUserControl.vb](./VB/E3465/WPF/WpfReportPreviewUserControl.vb))
+<!-- default file list end -->
 # How to embed a Document Preview for WPF into the End-User Report Designer for Windows Forms
 
 
