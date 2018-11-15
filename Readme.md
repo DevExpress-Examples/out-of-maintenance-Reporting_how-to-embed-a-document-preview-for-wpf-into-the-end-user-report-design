@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BarButtonTabPage.cs](./CS/WindowsFormsApplication1/BarButtonTabPage.cs) (VB: [BarButtonTabPage.vb](./VB/WindowsFormsApplication1/BarButtonTabPage.vb))
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+* [Helper.cs](./CS/WindowsFormsApplication1/Helper.cs) (VB: [Helper.vb](./VB/WindowsFormsApplication1/Helper.vb))
+* [ReportPreviewModel.cs](./CS/WindowsFormsApplication1/WPF/ReportPreviewModel.cs) (VB: [ReportPreviewModel.vb](./VB/WindowsFormsApplication1/WPF/ReportPreviewModel.vb))
+* [WpfReportPreviewControl.xaml](./CS/WindowsFormsApplication1/WPF/WpfReportPreviewControl.xaml) (VB: [WpfReportPreviewControl.xaml](./VB/WindowsFormsApplication1/WPF/WpfReportPreviewControl.xaml))
+* [WpfReportPreviewControl.xaml.cs](./CS/WindowsFormsApplication1/WPF/WpfReportPreviewControl.xaml.cs) (VB: [WpfReportPreviewControl.xaml](./VB/WindowsFormsApplication1/WPF/WpfReportPreviewControl.xaml))
+* [WpfReportPreviewUserControl.cs](./CS/WindowsFormsApplication1/WPF/WpfReportPreviewUserControl.cs) (VB: [WpfReportPreviewUserControl.vb](./VB/WindowsFormsApplication1/WPF/WpfReportPreviewUserControl.vb))
+<!-- default file list end -->
 # How to embed a Document Preview for WPF into the End-User Report Designer for Windows Forms
 
 
